@@ -1,2 +1,5 @@
-# ElliotDAMPro
-Repositorio dedicado a la asignatura de Programación 2023/2024.
+# Elliot Rodríguez Rodríguez
+Repositorio dedicado a almacenar mis trabajos de Programación.
+
+## Unidades
+-
